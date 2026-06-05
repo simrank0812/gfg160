@@ -27,3 +27,9 @@ Today I solved reverse array problem.
 Today I solved next permutation problem.
 
 
+[5/6/26]
+
+
+Today I solved find majority problem.
+
+
