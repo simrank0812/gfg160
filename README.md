@@ -33,3 +33,10 @@ Today I solved next permutation problem.
 Today I solved find majority problem.
 
 
+
+[6/6/26]
+
+
+Today I solved stock buy and sell problem.
+
+
