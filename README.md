@@ -37,6 +37,13 @@ Today I solved find majority problem.
 [6/6/26]
 
 
-Today I solved stock buy and sell problem.
+Today I solved stock buy and sell multiple transaction problem.
+
+
+
+[7/6/26]
+
+
+Today I solved stock buy and sell one transaction allowed problem.
 
 
