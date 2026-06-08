@@ -47,3 +47,14 @@ Today I solved stock buy and sell multiple transaction problem.
 Today I solved stock buy and sell one transaction allowed problem.
 
 
+
+
+
+[8/6/26]
+
+
+Today I solved minimize the height problem.
+
+
+
+
