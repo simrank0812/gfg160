@@ -58,3 +58,19 @@ Today I solved minimize the height problem.
 
 [9/6/26]
 
+
+Today I solved 
+
+[10/6/26]
+
+
+Today I solved maximize subarray  problem.
+
+
+
+
+
+
+
+
+
