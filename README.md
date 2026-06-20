@@ -17,9 +17,7 @@ Today I solved minimize the height problem.
 Today I solved 
 [10/6/26]
 Today I solved maximize subarray  problem.
-[11/6/26]
-Equalize All Prefix Sums
-[12/6/26]
+[12/6/26]    
 Merge Without Extra Space
 [13/6/26]
 Non-overlapping Intervals
@@ -41,5 +39,6 @@ Min Chars to Add for Palindrome
 Search Pattern
 [22/6/26]
 Non Repeating Character
-
+[23/6/26]
+Equalize All Prefix Sums
 
