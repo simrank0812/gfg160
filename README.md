@@ -47,3 +47,6 @@ Equalize All Prefix Sums
 [28/6/26]
 [29/6/26]
 [30/6/26]
+
+==JULY==
+[1/7/26]
