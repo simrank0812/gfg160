@@ -43,16 +43,38 @@ Non Repeating Character
 [23/6/26]
 Equalize All Prefix Sums
 [24/6/26]
+LRU Cache
 [25/6/26]
+Solved a minute ago
+[26/6/26]
+Remove loop in Linked List
 [27/6/26]
+First Node of Loop in Linked List
 [28/6/26]
+Detect Loop in linked list
 [29/6/26]
+Clone List with Next and Random
 [30/6/26]
 
 ==JULY==
+
 [1/7/26]
+Add Number Linked Lists
 [2/7/26]
+Linked List Group Reverse
+[3/7/26]
+Merge two sorted linked lists
 [4/7/26]
+Towers Reaching Both Stations
 [5/7/26]
+Reverse a linked list
 [6/7/26]
+Largest Unblocked Submatrix
 [7/7/26]
+Rotate a Linked List
+[8/7/26]
+Max Gap Between Two Same
+[9/7/26]
+Substrings with more 1's than 0's
+[10/7/26]
+Word Search
